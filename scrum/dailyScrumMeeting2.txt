@@ -1,0 +1,79 @@
+# Fill in, commit and push each day.
+# Group Member: FILL THIS IN
+
+Nov 22, 2017
+	Yesterday :
+	Today     : Received assignment.
+	Obstacles : None
+
+Nov 23, 2017
+	Yesterday : Received assignment.
+	Today     : Allocated work.
+	Obstacles : None
+
+Nov 24, 2017
+	Yesterday : Allocated work.
+	Today     : Took a look through the floating point questions.
+	Obstacles : None
+
+
+Nov 25, 2017
+	Yesterday : Looked at the questions.
+	Today     : No work was done.
+	Obstacles : None
+
+Nov 26, 2017
+	Yesterday : No work was done.
+	Today     : No work was done.
+	Obstacles : None
+	
+Nov 27, 2017
+	Yesterday : No work was done.
+	Today     : No work was done.
+	Obstacles : None
+	
+Nov 28, 2017
+	Yesterday : No work was done.
+	Today     : No work was done.
+	Obstacles : None
+	
+Nov 29, 2017
+	Yesterday : No work was done.
+	Today     : No work was done.
+	Obstacles : None
+
+Nov 30, 2017
+	Yesterday : No work was done.
+	Today     : Finished Q1.
+	Obstacles : None
+
+Dec 1, 2017
+	Yesterday : Finished Q1.
+	Today     : Began working on Q2.
+	Obstacles : Thinking of ways to iterate through floats.
+	
+Dec 2, 2017
+	Yesterday : Began working on Q2.
+	Today     : Finished Q2 with an acceptable run time.
+	Obstacles : None.
+
+Dec 3, 2017
+	Yesterday : Finished Q2.
+	Today     : Finished Q3 and changed something minor with Q2.
+	Obstacles :
+
+Dec 4, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 5, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 6, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	

@@ -1,0 +1,79 @@
+# Fill in, commit and push each day.
+# Group Member: Ayush Parikh
+
+Nov 22, 2017
+	Yesterday :None
+	Today     :Started working on Saving a file
+	Obstacles :None because I implemented saving a file in A2P2. I know how to do it
+
+Nov 23, 2017
+	Yesterday :Started working on Saving a file
+	Today     :Save is completed. Working fine
+	Obstacles :None
+
+Nov 24, 2017
+	Yesterday :Save is completed
+	Today     :Began to work on loading a file.
+	Obstacles :Coming up an efficent regex
+
+
+Nov 25, 2017
+	Yesterday :Began to work on loading a file.
+	Today     :Completed loading a file for CIRCLES ONLY.
+	Obstacles :None
+
+Nov 26, 2017
+	Yesterday :Completed loading a file for CIRCLES ONLY.
+	Today     :Completed loading a file for rectangles and squiggles.
+	Obstacles :None
+	
+Nov 27, 2017
+	Yesterday :Completed loading a file for rectangles and squiggles.
+	Today     :Redid loading since I did not use FSM. I implemented FSM, and worked for all of the J UNIT TESTING
+	Obstacles :NONE.
+	
+Nov 28, 2017
+	Yesterday :Redid loading since I did not use FSM. I implemented FSM, and worked for all of the J UNIT TESTING
+	Today     :Small Fixes
+	Obstacles :NONE
+	
+Nov 29, 2017
+	Yesterday :Small Fixes
+	Today     :Nothing, i was studying for upcoming exams. I have completed my part of the assignment
+	Obstacles :none
+
+Nov 30, 2017
+	Yesterday :Nothing, i was studying for upcoming exams. I have completed my part of the assignment
+	Today     :None
+	Obstacles :NONE
+
+Dec 1, 2017
+	Yesterday :none
+	Today     :Added java docs to all of my functions I made, added some extra Junit testing
+	Obstacles :none
+	
+Dec 2, 2017
+	Yesterday :Added java docs to all of my functions I made, added some extra Junit testing
+	Today     :Extra JUnit testing added
+	Obstacles :None
+
+Dec 3, 2017
+	Yesterday :Extra JUnit testing added
+	Today     :I have completed my part of the assignment
+	Obstacles :None
+
+Dec 4, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 5, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 6, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	
